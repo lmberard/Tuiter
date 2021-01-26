@@ -1,2 +1,2 @@
 # "Twitter"
-Representación una publicación de Twitter
+Representación de una publicación de Twitter
